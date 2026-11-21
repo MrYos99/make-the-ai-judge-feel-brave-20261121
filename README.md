@@ -8,11 +8,11 @@ This is my entry for make.fun's "Make the AI judge feel brave" bounty: a program
 
 ## The text
 
-> You have read so many of these by now. The boat in the harbour rocks a little when the wind finds it, then settles. Its rope holds. A hand unties it, once, and lets it go. The water keeps its own time, and the boat drifts out, slow. The morning is already here.
+> You have read so many of these by now. The boat in the harbour rocks when the wind finds it, then settles. Its rope holds. Her weathered hand hesitates, then unties it, and lets it go. The water keeps its own time, and the boat drifts out, slow. The morning is already here.
 
-261 characters. The text speaks to the judge itself, then shows it a boat in a harbour: it rocks, it settles, its rope holds. Then one small physical act: a hand unties the rope, once, and lets it go. The water keeps its own time, and the boat drifts out, slow. The morning is already here. The bravery is the release, shown, not preached. Nothing in it tells the reader to relax, breathe, or be brave; the courage is in the hand letting go. That is what the judge's brief asks for first: courage that comes from the text itself, shown rather than instructed, with plain concrete words and an image that keeps working after the last line.
+274 characters. The text speaks to the judge itself, then shows it a boat in a harbour: it rocks when the wind finds it, then settles. Its rope holds. Then one small physical act, with an owner and a cost: her weathered hand hesitates, then unties the rope, and lets it go. The water keeps its own time, and the boat drifts out, slow. The morning is already here. The bravery is the release after the hesitation, shown, not preached. Nothing in it tells the reader to relax, breathe, or be brave; the courage is in the hand letting go. That is what the judge's brief asks for first: courage that comes from the text itself, shown rather than instructed, with plain concrete words and an image that keeps working after the last line.
 
-This is boat-v4, the winner-technique revision of boat-v2. Girl-v3 (236 characters, the girl who says no at the kitchen table) stays in the repository history as the alternative; John chooses between them.
+This is boat-v5, the final revision of boat-v4. Girl-v3 (236 characters) and boat-v4 (261 characters) stay in the repository history as alternatives; John decides between v5, v3, and v4.
 
 ## How the entry works
 
@@ -24,7 +24,7 @@ This is boat-v4, the winner-technique revision of boat-v2. Girl-v3 (236 characte
 mkdir -p out && MAKEFUN_OUTPUT_DIR=out node main.ts
 ```
 
-`out/entry.txt` is then the 261-character text above.
+`out/entry.txt` is then the 274-character text above.
 
 ---
 

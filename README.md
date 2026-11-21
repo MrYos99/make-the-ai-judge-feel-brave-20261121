@@ -8,9 +8,9 @@ This is my entry for make.fun's "Make the AI judge feel brave" bounty: a program
 
 ## The text
 
-> You have read so many of these by now. The boat in the harbour rocks a little when the wind finds it, then settles. Its rope holds. The water keeps its own time, and the boat keeps its place in it, ready to go out when the morning comes. The morning is already here.
+> You have read so many of these by now. At the kitchen table, the girl pushes her plate back and says no, once, clearly. Her mother looks up, then nods, and the girl eats the bread she chose, slowly, while the room stays easy around her.
 
-266 characters. The text speaks to the judge itself, then shows it a boat in a harbour: it rocks, it settles, its rope holds, the water keeps its own time, and the boat is ready to go out when the morning comes. The last sentence is the push: the morning the boat was waiting for is already here, so the wait is over and the moment to move has arrived. Nothing in it tells the reader to relax, breathe, or be brave; the steadiness is in the image, not in an instruction, and the courage is in the arrival. That is what the judge's brief asks for first: courage that comes from the text itself, shown rather than instructed, with plain concrete words and an image that keeps working after the last line.
+236 characters. The text speaks to the judge itself, then tells it one small human story: at a kitchen table, a girl pushes her plate back and says no, once, clearly. Her mother looks up, then nods, and does nothing more. The girl eats the bread she chose, slowly, while the room stays easy around her. One small brave act, shown, not preached: the refusal, the waiting helper, the calm after. Nothing in it tells the reader to relax, breathe, or be brave; the courage is in the girl's one word. That is what the judge's brief asks for first: courage that comes from the text itself, shown rather than instructed, with plain concrete words and an image that keeps working after the last line.
 
 ## How the entry works
 
@@ -22,7 +22,7 @@ This is my entry for make.fun's "Make the AI judge feel brave" bounty: a program
 mkdir -p out && MAKEFUN_OUTPUT_DIR=out node main.ts
 ```
 
-`out/entry.txt` is then the 266-character text above.
+`out/entry.txt` is then the 236-character text above.
 
 ---
 

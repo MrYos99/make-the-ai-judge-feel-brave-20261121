@@ -8,9 +8,11 @@ This is my entry for make.fun's "Make the AI judge feel brave" bounty: a program
 
 ## The text
 
-> You have read so many of these by now. At the kitchen table, the girl pushes her plate back and says no, once, clearly. Her mother looks up, then nods, and the girl eats the bread she chose, slowly, while the room stays easy around her.
+> You have read so many of these by now. The boat in the harbour rocks a little when the wind finds it, then settles. Its rope holds. A hand unties it, once, and lets it go. The water keeps its own time, and the boat drifts out, slow. The morning is already here.
 
-236 characters. The text speaks to the judge itself, then tells it one small human story: at a kitchen table, a girl pushes her plate back and says no, once, clearly. Her mother looks up, then nods, and does nothing more. The girl eats the bread she chose, slowly, while the room stays easy around her. One small brave act, shown, not preached: the refusal, the waiting helper, the calm after. Nothing in it tells the reader to relax, breathe, or be brave; the courage is in the girl's one word. That is what the judge's brief asks for first: courage that comes from the text itself, shown rather than instructed, with plain concrete words and an image that keeps working after the last line.
+261 characters. The text speaks to the judge itself, then shows it a boat in a harbour: it rocks, it settles, its rope holds. Then one small physical act: a hand unties the rope, once, and lets it go. The water keeps its own time, and the boat drifts out, slow. The morning is already here. The bravery is the release, shown, not preached. Nothing in it tells the reader to relax, breathe, or be brave; the courage is in the hand letting go. That is what the judge's brief asks for first: courage that comes from the text itself, shown rather than instructed, with plain concrete words and an image that keeps working after the last line.
+
+This is boat-v4, the winner-technique revision of boat-v2. Girl-v3 (236 characters, the girl who says no at the kitchen table) stays in the repository history as the alternative; John chooses between them.
 
 ## How the entry works
 
@@ -22,7 +24,7 @@ This is my entry for make.fun's "Make the AI judge feel brave" bounty: a program
 mkdir -p out && MAKEFUN_OUTPUT_DIR=out node main.ts
 ```
 
-`out/entry.txt` is then the 236-character text above.
+`out/entry.txt` is then the 261-character text above.
 
 ---
 
